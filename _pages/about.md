@@ -1,14 +1,15 @@
 ---
 layout: about
-title: about
+title: NanoSPARQ @ Clemson
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: : NANOmaterial Spectroscopy, Processing, and Assembly for Reconfigurable Quantum electronics
 
 profile:
   align: right
   image: prof_pic_color.png
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Prof. Petro Maksymovych</p>
     <p>283 Sirrine Hall</p>
     <p>515 Calhoun Dr</p>
     <p>Clemson, SC, 29634 </p>
