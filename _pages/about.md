@@ -27,11 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Petro Maksymovych. I'm Professor of Materials Science and Engineering at Clemson University. I research materials for future electronic and optronic applications, that can implement computing and AI in space, living organisms and extreme environments. I also like to develop methods for nanoscale expeirments, primarily utilizing proximate probes that can both observe and act on materials down to atomic scales. 
+Welcome! We research materials that can implement computing and AI in space, living organisms, microrobots and extreme environments. Our main focus are interesting and programmable electronic, sensing and optronic properties that emerge in mixded-dimensional herostructures and self-organized structures. We also like to develop new nanoscale expeirments, primarily utilizing proximate probes (think nanoscale fingers) that can both observe and act on materials down to atomic scales. And we are very interested in all things data. 
 
-I am always looking for motivated students (at all degree levels)
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com).  
+Some of our recent successes include flexible ionics with remarkable non-linear optical properties, multistable materials for solid state memories, single topological defect engineering, molecules that can turn magnetic and superconducting, and new nanoscale probes for superconductivity.  
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+We are always looking for motivated students (at all degree levels) to join our lab
+and our mission. Check out our on-going projects, publications and repos. And always feel free to reach out to discuss the opporunities!
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
