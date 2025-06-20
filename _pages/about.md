@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: **Nano**scale **S**pectroscopy, **P**rocessing, and **A**ssembly for **R**econfigurable **Q**uantum electronics #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Nano-scale Spectroscopy, Processing, and Assembly for Reconfigurable Quantum electronics #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
