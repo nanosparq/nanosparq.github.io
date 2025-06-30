@@ -28,7 +28,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to NanoSPARQ! We research materials for future electronic and optronic applications, that can implement computing and AI in space, living organisms and extreme environments. We also develop methods for nanoscale expeirments, primarily utilizing proximate probes that can both observe and act on materials down to atomic scales. 
+Welcome to NanoSPARQ! We research materials for future electronic and optronic applications, that can implement computing and AI in space, living organisms and extreme environments. 
+
+We also develop methods for nanoscale expeirments, primarily utilizing proximate probes that can both observe and act on materials down to atomic scales. 
 
 We are always looking for motivated students (at all degree levels) and postdocs who would like to join the group and our mission. Feel free to reach out any time!
 

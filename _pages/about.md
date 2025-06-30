@@ -27,7 +27,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome! We research materials that can **carry computing and AI into space, living organisms, microrobots and extreme environments**. We are pursuing discovery of interesting and programmable electronic, sensing and optronic functions emerging in mixded-dimensional heterostructures, such as **2D + 3D materials, and self-organized structures, such as defect networks**. We also like to develop new nanoscale experiments, primarily utilizing proximate probes (think nanoscale fingers) that can both **observe and act on materials down to atomic scales**. And we are very interested in all things at the intersection of **data, spectroscopy and microscopy**. 
+Welcome! We research materials that can **carry computing and AI into space, living organisms, microrobots and extreme environments**. 
+
+- We are pursuing **discovery of interesting and programmable electronic, sensing and optronic functions** emerging in mixded-dimensional heterostructures, such as 2D + 3D materials, and self-organized structures, such as defect networks. 
+
+- We also like to **develop new nanoscale experiments, primarily utilizing proximate probes** (think nanoscale fingers) that can both observe and act on materials down to atomic scales. 
+
+- And we are very interested in all things at the intersection of **data, spectroscopy and microscopy**. 
 
 Some of our recent successes include **flexible ionics** with remarkable non-linear optical properties, **multistable materials** for solid state memories, programmable conductive filaments, **self-organized molecules** that can turn magnetic and superconducting, and **atomic scale Andreev probes** for quantum matter.  
 
