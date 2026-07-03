@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: maksymovychCV.pdf # you can also use external links here
+description: Advancing knowledge, characterization, and applications of phase transitions through imaging and computational thinking.
 toc:
   sidebar: left
 ---

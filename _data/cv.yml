@@ -3,93 +3,172 @@
   contents:
     - name: Full Name
       value: Petro Maksymovych
+    - name: Position
+      value: Professor of Materials Science, Clemson University
     - name: Languages
       value: English, Ukrainian, German, Python
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Ph.D. Chemistry
       institution: University of Pittsburgh, Pittsburgh, Pennsylvania, US
       year: 2007
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: B. Sc.
-      institution: Kyiv Taras Shevchenko National University, Kyiv, Ukraine
+        - "Advisor: John T. Yates, Jr."
+    - title: B.S. Chemistry
+      institution: Taras Shevchenko National University of Kyiv, Ukraine
       year: 2001
       description:
-        - Description 1.
-        - Description 2.
+        - "Advisor: Vitaliy Yatsimirsky"
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Professor of Materials Science
+      institution: Clemson University
+      year: 2024 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Developing <i>morphotronic engineering</i> — a geometry-function paradigm for energy and information materials.
+    - title: Distinguished Research Scientist
+      institution: Oak Ridge National Laboratory
+      year: 2023 - 2024
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Andreev tunneling microscopy for unconventional superconductors.
+    - title: Senior Research Scientist
+      institution: Center for Nanophase Materials Sciences, Oak Ridge National Laboratory
+      year: 2019 - 2023
       description:
+        - Imaging of quantum materials on the atomic scale, "hidden" states in quantum materials, and co-design for neuromorphic computing.
+    - title: Research Scientist
+      institution: Center for Nanophase Materials Sciences, Oak Ridge National Laboratory
+      year: 2014 - 2019
+      description:
+        - Switchable and adaptive van der Waals materials for integration of phase transitions into 2D electronics paradigm.
+    - title: Research & Development Associate
+      institution: Center for Nanophase Materials Sciences, Oak Ridge National Laboratory
+      year: 2009 - 2013
+      description:
+        - Electronic correlations in molecular materials.
+    - title: Eugene P. Wigner Fellow
+      institution: Center for Nanophase Materials Sciences, Oak Ridge National Laboratory
+      year: 2007 - 2009
+      description:
+        - Electronically conducting topological defects in ferroelectric materials, with potential for energy-efficient neuromorphic computing.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Leadership Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: 'Task Leader, "Abisko: Deep Codesign of an Energy-Optimized, High Performance Neuromorphic Accelerator"'
+      year: 2021 - present
+      description:
+        - Leading research bridging nano- and device scales in neuromorphic computing materials, in collaboration with ORNL, Georgia Tech, Arizona State Univ., Harvard, Sandia, University of Michigan, and Fermilab.
+    - title: Principal Investigator, "Probing Coupled and Competing Polar Orders from Nano to Mesoscales" (FWP, DOE Basic Energy Sciences)
+      year: 2020 - 2022
+      description:
+        - Led research on nanoscale phase transitions, functional topological defects, and atomic-scale probe microscopy of ferroelectric materials.
+    - title: Theme Leader, "Multiscale Dynamics"
+      institution: Center for Nanophase Materials Sciences, ORNL
+      year: 2018 - present
+      description:
+        - Organizing and coordinating one of three primary research directions at CNMS (network of 10+ scientists), dedicated to metastable materials and non-equilibrium thermodynamics on the nanoscale.
+    - title: President, Tennessee Valley Chapter of the American Vacuum Society
+      year: 2016 - present
+      description:
+        - Organizing, sponsoring, and coordinating AVS activities across Tennessee, Georgia, Alabama, Kentucky, and South Carolina.
+    - title: Principal Investigator, "Layered Ferroics by Design" (ORNL LDRD)
+      year: 2014 - 2017
+      description:
+        - Pioneered new approaches to tune complex layered materials, enabling ionic conductivity, spontaneous and magnetic polarization, and electron correlations in van der Waals lattices.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Outstanding Technical Accomplishment for Development of Decay Rate Spectroscopy, CNMS, ORNL
+    - year: 2020
       items:
-        - Max Planck Medal
+        - Best Paper for discovery of tunable quadruple polarization well in CuInP2S6, ORNL
+    - year: 2019
+      items:
+        - ISI Highly Cited Researcher
+    - year: 2015
+      items:
+        - Peter Mark Award, American Vacuum Society
+    - year: 2011
+      items:
+        - "ORNL Director's Award for Outstanding Accomplishment in Science and Technology"
+        - ORNL Early Career Award for Individual Scientific Accomplishment
+    - year: 2010
+      items:
+        - Martin and Beathe Block Prize, Aspen Center for Physics
+    - year: 2007
+      items:
+        - Eugene P. Wigner Fellowship, Oak Ridge National Laboratory
+        - Wayne B. Nottingham Prize, Physical Electronics Conference
+    - year: 2006
+      items:
+        - Morton Traum Award, American Vacuum Society
 
-- title: Academic Interests
+- title: Technical Expertise
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Microscopy & Spectroscopy
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Tunneling Andreev Microscopy/Spectroscopy for unconventional superconductors
+        - Contact Kelvin Probe Force Microscopy for quantitative dielectric measurement
+        - Non-Contact Tunneling Thermocouple Spectroscopy
+        - STM/STS, Josephson & Thermovoltage Tunneling Microscopy, AFM/PFM/MFM/cAFM, Scanning Microwave Impedance Microscopy
+    - title: Ultrahigh-Vacuum Methodologies
       items:
-        - Description 1.
-        - Description 2.
+        - Surface analysis (LEED, TPD), vacuum deposition and surface preparation
+        - Thin film growth, molecular self-assembly, cryogenic equipment
+        - CAD design of UHV equipment
+    - title: Signal Analytics
+      items:
+        - Multivariate statistics and machine learning, image and hyperspectral data analysis
+        - Time-series analytics (outlier detection, stochastic processes, Gaussian processes)
+        - Neural networks (autoencoders, Siamese networks, CNN, LSTM), probabilistic programming
+    - title: Computational Methods
+      items:
+        - Python, Wolfram Language (Mathematica), LabVIEW, MATLAB, COMSOL, Kwant, cloud infrastructure
+        - "Creator of Data-xray, a pythonic tool for rapid aggregation and reporting of heterogeneous microscopy and spectroscopy datasets"
 
-- title: Other Interests
-  type: list
+- title: Patents
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Truncated Non-linear Interferometer-based Sensor System
+      year: 2021
+      description:
+        - "With R. C. Pooser, B. J. Lawrie. US Patent 20210405503A1"
+    - title: Microwave AC Conductivity of Domain Walls
+      year: 2018
+      description:
+        - "With A. Tselev, S. V. Kalinin. US Patent 10160645B2"
+    - title: Self-assembly Patterning of Organic Molecules on a Surface
+      year: 2017
+      description:
+        - "With M. A. Fuentes-Cabrera, B. G. Sumpter, M. Pan, Q. Li. US Patent 9,610,608"
+    - title: Electronic Thermometry in Tunable Tunnel Junction
+      year: 2016
+      description:
+        - "US Patent 9,285,279"
+    - title: Single Contact Tunneling Thermometry
+      year: 2016
+      description:
+        - "US Patent 9,267,851"
+    - title: Real Space Mapping of Oxygen Vacancy Diffusion and Electrochemical Transformations by Hysteretic Current Reversal Curve Measurements
+      year: 2014
+      description:
+        - "With S. V. Kalinin, N. Balke, Albina Y. Borisevich, Stephen Jesse, Y. Kim, E. Strelcov. US Patent 8,752,211"
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/amplifilo/data-xray">Data-xray</a>
+      year: 2020-now
+      description: A pythonic cure for the hyperspectral morass — rapid aggregation and reporting of heterogeneous microscopy and spectroscopy datasets.
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
